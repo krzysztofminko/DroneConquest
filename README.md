@@ -2,6 +2,9 @@
 Design drones AI using flow diagrams, and send them to explore and conquest planets.  
 <img src="Screens/screen01.jpg" width=600></img>
 
+## Note
+[Go to my C# scripts](Assets/Scripts)
+
 ## Implemented features
 
 ### Flow diagram editor
